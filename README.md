@@ -2,7 +2,7 @@
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/>
 
-## 👋 Hey there! I'm Jose Fernando Obregon Garrido
+##  Hey there! I'm Jose Fernando Obregon Garrido
 
 ---
 
