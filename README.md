@@ -39,7 +39,17 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💻 Coding Environment
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="120"/>
+</p>
+
+<p align="center">
+  <strong>Visual Studio Code</strong> – Mi entorno principal de desarrollo
+</p>
+
 
 ---
 
