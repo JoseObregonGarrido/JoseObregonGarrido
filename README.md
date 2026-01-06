@@ -13,7 +13,7 @@
 - 💡 Apasionado por el desarrollo de software y el aprendizaje constante
 - 🧠 Interesado en **desarrollo web**, **backend**, **bases de datos** y **ciberseguridad**
 - 🤝 Buen trabajo en equipo y resolución de problemas
-- 🌱 Aprendiendo **Python, JavaScript, React y Docker**
+- 🌱 Aprendiendo **JavaScript, React y Docker**
 - 📍 Pereira / Risaralda – Colombia
 - 📧 **Email:** joseobregon270@gmail.com
 
