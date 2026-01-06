@@ -50,14 +50,7 @@
 
 ## 🚀 Projects
 
-- 🎵 **Groove Records**  
-  https://github.com/JoseObregonGarrido/groove-records  
-
-- 🌾 **SGAL – Sistema de Gestión Agrícola**  
-  https://github.com/JoseObregonGarrido/sgal  
-
-- ❓ **Juego Kahoot JS**  
-  https://github.com/JoseObregonGarrido/juego-kahoot  
+-  
 
 ---
 
@@ -65,15 +58,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseObregonGarrido&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## ⚙️ GitHub Stats (estable)
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseObregonGarrido&show_icons=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseObregonGarrido&layout=compact"/>
 </p>
 
 ---
