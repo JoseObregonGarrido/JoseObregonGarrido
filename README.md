@@ -11,7 +11,7 @@
 - 🎓 Tecnólogo en **Análisis y Desarrollo de Software**
 - 🏭 Actualmente realizando **prácticas profesionales en Ingenio Risaralda**
 - 💡 Apasionado por el desarrollo de software y el aprendizaje constante
-- 🧠 Interesado en **desarrollo web**, **backend**, **bases de datos**, y **ciberseguridad**
+- 🧠 Interesado en **desarrollo web**, **backend**, **bases de datos** y **ciberseguridad**
 - 🤝 Buen trabajo en equipo y resolución de problemas
 - 🌱 Aprendiendo **Python, JavaScript, React y Docker**
 - 📍 Pereira / Risaralda – Colombia
