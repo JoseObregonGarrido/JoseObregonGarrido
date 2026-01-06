@@ -50,7 +50,14 @@
 
 ## 🚀 Projects
 
+- 🎵 **Groove Records**  
+  https://github.com/JoseObregonGarrido/groove-records  
 
+- 🌾 **SGAL – Sistema de Gestión Agrícola**  
+  https://github.com/JoseObregonGarrido/sgal  
+
+- ❓ **Juego Kahoot JS**  
+  https://github.com/JoseObregonGarrido/juego-kahoot  
 
 ---
 
@@ -62,11 +69,11 @@
 
 ---
 
-## ⚙️ GitHub Stats
+## ⚙️ GitHub Stats (estable)
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseObregonGarrido&show_icons=true&theme=algolia"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseObregonGarrido&layout=compact&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseObregonGarrido&show_icons=true"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseObregonGarrido&layout=compact"/>
 </p>
 
 ---
@@ -74,10 +81,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-<a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joseobregon270@gmail.com">
-  Enviarme un correo
-</a>
-">
+<a href="mailto:joseobregon270@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
