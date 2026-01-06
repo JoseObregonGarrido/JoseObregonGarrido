@@ -24,11 +24,16 @@
 ### Lenguajes
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks / Libraries
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend, DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,11 +48,25 @@
 
 ---
 
-## ⚙️ GitHub Analytics
+## 🚀 Projects
+
+
+
+---
+
+## 📈 Commit Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseObregonGarrido&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## ⚙️ GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseObregonGarrido&show_icons=true&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseObregonGarrido&layout=compact&theme=algolia"/>
 </p>
 
 ---
@@ -58,12 +77,4 @@
 <a href="mailto:joseobregon270@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 🐍 That's how my commits move
-
-<p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 </p>
