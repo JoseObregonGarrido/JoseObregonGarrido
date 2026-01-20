@@ -50,7 +50,7 @@
 
 ## 🚀 Projects
 
--  Conductores de bagazo irisa (https://github.com/JoseObregonGarrido/conductor-bagazo-Irisa.git)
+-  CONDUCTORES DE BAGAZO IRISA (https://github.com/JoseObregonGarrido/conductor-bagazo-Irisa.git)
 
 ---
 
